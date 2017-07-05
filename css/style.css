@@ -1,0 +1,373 @@
+*{
+	font-family: 
+}
+
+.first-section{
+	background-image: url(../img/portada.jpg);
+	height: 100vh;
+	background-size: cover;
+	background-repeat: no-repeat;
+	width: 100%;
+}
+.navbar-inverse {
+   	background-color: transparent;
+    border-color: transparent;
+}
+
+.navbar-inverse .navbar-nav > li > a {
+    color: white;
+}
+
+.navbar-inverse .navbar-text {
+    color: white;
+    font-size: 18px;
+}
+
+#sumo{
+	color: white;
+	padding-top: 19em;
+	
+}
+
+.btn-primary {
+    color: #fff;
+    background-color:  #41521F;
+    border-color: #41521F;
+}
+
+.btn-primary:hover{
+    color: black;
+    background-color:  #fff;
+    border-color: #fff;
+}
+
+/*Segunda sección*/
+.second-section{
+	padding: 13px;
+	width: 100%
+	height:100vh;
+	background-color: #fff;
+}
+
+#caja-dos{
+	margin-top: 100px;
+	}
+
+h2{
+	color: #999966;
+}
+
+.third-section{
+	background-color: #b2b266;
+	color: white;
+}
+
+#caja-tres{
+	margin-top: 40px;
+	margin-bottom: 40px;
+	padding: 10px;
+}
+
+.koala-tres{
+	border: 3px solid white;
+}
+.alerta{
+	color: #41521F;
+}
+
+
+/*seccion-cuatro*/
+
+.four-section{
+	background-image: url("../img/all.jpg");
+	height: 100vh;
+	background-size: cover;
+	background-repeat: no-repeat;
+	padding: 5em 0;
+	background-position: center left;
+}
+
+small.texfour, h2.texfour, footer.texfour{
+	color: #fff;
+}
+
+
+/*Seccion cinco*/
+
+.not-hard{
+	padding: 20px;
+	color: #b2b266;
+}
+
+#caja-cinco{
+	padding: 5px;
+}
+
+.texto-cinco{
+	margin-top: 50px;
+	padding: 10px;
+}
+.fa{
+	color: 66;
+	width: 50%;
+	margin-top: 50px;
+	font-size: 100px;
+
+}
+
+footer{
+	background-color: #41521F;
+	text-decoration: none;
+	color: white;
+}
+
+.pie-pagina li{
+	list-style: none;
+	margin-top: 10px;
+
+}
+
+ a {
+    color: #b2b266;
+   
+
+}
+
+a:hover{
+    background-color: #33331a;
+    color: #fff;
+
+}
+
+.about-2{
+	color: #b2b266;
+	padding: 10px;
+}
+
+.six-section{
+	background-color: #b2b266;
+	padding: 18px;
+}
+
+.can-help{
+	color: #41521F;
+}
+
+.personal{
+	padding: 20px;
+	margin-top: 20px;
+}
+
+.numero{
+	color: white;
+	font-size: 80px;
+	background-size: cover;
+	padding: 0;
+	margin-top: -43px;
+}
+
+.signo{
+	margin-right: 93px;
+	padding: 0px;
+
+}
+
+
+.btn-secondary{
+	background-color: #41521F;
+	color: white;
+}
+
+.btn-secondary:hover{
+	background-color: white;
+	color: #41521F;
+}*{
+	font-family: 
+}
+
+.first-section{
+	background-image: url(../img/portada.jpg);
+	height: 100vh;
+	background-size: cover;
+	background-repeat: no-repeat;
+	width: 100%;
+}
+.navbar-inverse {
+   	background-color: transparent;
+    border-color: transparent;
+}
+
+.navbar-inverse .navbar-nav > li > a {
+    color: white;
+}
+
+.navbar-inverse .navbar-text {
+    color: white;
+    font-size: 18px;
+}
+
+#sumo{
+	color: white;
+	padding-top: 19em;
+	
+}
+
+.btn-primary {
+    color: #fff;
+    background-color:  #41521F;
+    border-color: #41521F;
+}
+
+.btn-primary:hover{
+    color: black;
+    background-color:  #fff;
+    border-color: #fff;
+}
+
+/*Segunda sección*/
+.second-section{
+	padding: 13px;
+	width: 100%
+	height:100vh;
+	background-color: #fff;
+}
+
+#caja-dos{
+	margin-top: 100px;
+	}
+
+h2{
+	color: #999966;
+}
+
+.third-section{
+	background-color: #b2b266;
+	color: white;
+}
+
+#caja-tres{
+	margin-top: 40px;
+	margin-bottom: 40px;
+	padding: 10px;
+}
+
+.koala-tres{
+	border: 3px solid white;
+}
+.alerta{
+	color: #41521F;
+}
+
+
+/*seccion-cuatro*/
+
+.fourth-section{
+	background-image: url(../img/all.jpg);
+	height: 100vh;
+	background-size: cover;
+	background-repeat: no-repeat;
+	width: 100%;
+	color: white;
+}
+.no{
+	color: white;
+}
+
+.parrafo-4{
+	padding: 20px;
+	margin-top: 60px;
+	float: right;
+}
+
+
+
+/*Seccion cinco*/
+
+.not-hard{
+	padding: 20px;
+	color: #b2b266;
+}
+
+#caja-cinco{
+	padding: 5px;
+}
+
+.texto-cinco{
+	margin-top: 50px;
+	padding: 10px;
+}
+.fa{
+	color: 66;
+	width: 50%;
+	margin-top: 50px;
+	font-size: 100px;
+
+}
+
+footer{
+	background-color: #41521F;
+	text-decoration: none;
+	color: white;
+}
+
+.pie-pagina li{
+	list-style: none;
+	margin-top: 10px;
+
+}
+
+ a {
+    color: #b2b266;
+   
+
+}
+
+a:hover{
+    background-color: #33331a;
+    color: #fff;
+
+}
+
+.about-2{
+	color: #b2b266;
+	padding: 10px;
+}
+
+.six-section{
+	background-color: #b2b266;
+	padding: 18px;
+}
+
+.can-help{
+	color: #41521F;
+}
+
+.personal{
+	padding: 20px;
+	margin-top: 20px;
+}
+
+.numero{
+	color: white;
+	font-size: 80px;
+	background-size: cover;
+	padding: 0;
+	margin-top: -43px;
+}
+
+.signo{
+	margin-right: 93px;
+	padding: 0px;
+
+}
+
+
+.btn-secondary{
+	background-color: #41521F;
+	color: white;
+}
+
+.btn-secondary:hover{
+	background-color: white;
+	color: #41521F;
+}
